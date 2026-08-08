@@ -1,0 +1,7 @@
+- [ ] Pizza
+- [ ] burger
+- [ ] French Fries
+- [ ] Cold Drinks
+- [ ] Butter Milk
+- [ ] Water
+- [ ] Ice Cream
