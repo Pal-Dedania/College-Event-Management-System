@@ -1,10 +1,6 @@
 - donate
 
----
 
-- **view recipt**
-
----
 
 ---
 
